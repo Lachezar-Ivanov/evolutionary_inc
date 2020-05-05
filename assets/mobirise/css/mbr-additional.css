@@ -542,8 +542,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 .form-control {
   font-family: 'Roboto', sans-serif;
@@ -1119,7 +1119,7 @@ section.lazy-placeholder:after {
   color: #d32d1a !important;
 }
 .cid-rY0FjovsTt {
-  background-image: url("../../../assets/images/christian-lue-mjyctljcy7e-unsplash-2.jpeg");
+  background-image: url("../../../assets/images/berlin-1-2000x1125.jpeg");
 }
 .cid-rY0FjovsTt .mbr-text,
 .cid-rY0FjovsTt .mbr-section-btn {
@@ -1796,7 +1796,7 @@ section.lazy-placeholder:after {
 .cid-rY73zRyR2I {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/christian-lue-mjyctljcy7e-unsplash-2.jpeg");
+  background-image: url("../../../assets/images/berlin-1-2000x1125.jpeg");
 }
 .cid-rY73zRyR2I .mbr-section-subtitle {
   text-align: left;
