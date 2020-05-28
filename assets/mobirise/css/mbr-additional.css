@@ -1273,17 +1273,11 @@ section.lazy-placeholder:after {
 }
 .cid-rY10EWiiTr .testimonials-container .testimonials-item .user .testimonials-caption {
   padding: 2rem;
-  padding: 2rem 2rem 2rem 0;
 }
 @media (max-width: 260px) {
   .cid-rY10EWiiTr .user_image {
     width: 100% !important;
     height: auto !important;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rY10EWiiTr .testimonials-caption {
-    padding: 0 2rem 2rem 2rem !important;
   }
 }
 .cid-rY10EWiiTr H2 {
